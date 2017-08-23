@@ -1,0 +1,1689 @@
+{
+"id": "419079001",
+"readModel": {
+"headline": "Brightline exec tells Congress better cooperation is needed | Videos",
+"byline": null,
+"credit": null,
+"promoImage": {
+"id": 96457912,
+"readModelName": "search-result",
+"attributes": {
+"numCrops": "6"
+},
+"attribution": {
+"author": "LEAH VOSS/TCPALM",
+"publication": "TREASURE COAST NEWSPAPERS"
+},
+"contentSourceName": "Treasure Coast-Unknown",
+"aggregateId": "96457912",
+"status": "published",
+"createdDate": "2017-01-11T20:47:11.277Z",
+"updatedDate": "2017-06-22T22:40:51.230Z",
+"userUpdatedDate": "2017-06-22T22:40:51.230Z",
+"scheduledPublishDate": "2017-06-22T22:40:51.333Z",
+"authoringTypeCode": "image",
+"authoringBehavior": "image",
+"lastPublishedDate": "2017-01-11T20:47:11.380Z",
+"contentQueueDate": "2017-01-11T20:47:11.380Z",
+"initialPublishedDate": "2017-01-11T20:47:11.380Z",
+"expiration": "0001-01-01T05:00:00.000Z",
+"createdByUser": "lvoss@gannett.com",
+"updatedByUser": "lvoss@gannett.com",
+"createdBySystem": "Presto",
+"updatedBySystem": "Presto",
+"siteCode": "PTCN",
+"assetGroupId": 3597,
+"assetGroupName": "TreasureCoast",
+"isEvergreen": false,
+"propertyId": 417,
+"propertyName": "TreasureCoast",
+"propertyDisplayName": "Treasure Coast",
+"title": "SOF AAF Debut 2",
+"promoImageId": null,
+"shortUrl": "",
+"url": "",
+"isCurrentlyPublished": true,
+"tags": [],
+"promoBrief": "All Aboard Florida and Brightline president Michael Reininger debuted the new \"BrightBlue\" passenger train during a media day Wednesday, Jan. 11, 2017, at Workshop b, Brightine's railroad operations facility in West Palm Beach. \"South Florida is very close to experiencing the future of train travel, a new travel alternative as an option to private cars on crowded roads,\" Reininger said.",
+"promoHeadline": null,
+"ssts": "",
+"contentSourceCode": "PTCN_UNK",
+"thumbnail": "http://www.gannett-cdn.com/-mm-/b9a56fd459f99e20f0513758cdbb72e1210ccc16/r=300x300/local/-/media/2017/01/11/Treasure%20Coast/TreasureCoast/636197462764580126-b1.jpg"
+},
+"promoBrief": "Michael Reininger on Thursday revealed Brightline's struggles to work with the federal government and how that's hurt the $3.1 billion project.",
+"googleKeywords": "All Aboard Forida, Brightline,  News, Local News, Brian Mast, Florida East Coast Industries,  Stuart News,  Press Journal, Treasure Coast, TCPalm",
+"promoHeadline": "Brightline exec urges better cooperation | Videos",
+"printPackageInstructions": "STATUS: #tocoachalr #toeditlak\nclean preview-lak\nLENGTH: 12-15i\nPHOTO: File\nZONE and PLACEMENT: Probably local inside all editions (unless something interesting happens)\nFRANCHISE: SOF\nBUDGET: Reininger today will address the U.S. House Infrastructure Committee.\nNOTES:",
+"printFolderName": "0623 SOF AAF MTG",
+"evergreen": false,
+"standout": false,
+"urlEnding": "brightline-exec-tells-congress-better-cooperation-needed-between-government-business",
+"paywallType": "metered",
+"webTemplate": "",
+"legacyId": null,
+"body": "<div asset=\"::asset\" assetid=\"99186708\" assettype=\"video\" class=\"assetcard\" minimized=\"::minimized\" story-asset-card=\"\">\n<div assetid=\"99186708\" assettype=\"video\" class=\"panel panel-default asset mb0\" contenteditable=\"false\">\n<div class=\"panel-heading panel-title drag-handle ellipsis\"><px-asset-bullet asset=\"asset\" can-change=\"\" class=\"ab asset-bullet-border\" is-embed=\"\" ng-if=\"asset.propertyId\" popover-placement=\"left\" tabindex=\"-1\">\n<div auto-close=\"always\" class=\"btn-group btn-group-xs asset-bullet-container menu dropdown\" ng-click=\"loadAssetBulletData()\" style=\"\" uib-dropdown=\"\">\n<ul class=\"dropdown-menu asset-bullet-dropdown fq-actions pull-left\" role=\"menu\" uib-dropdown-menu=\"\">\n\t<li class=\"fq-action dropdown dropdown-submenu\"><a class=\"dropdown-AssetID cursor-pointer h5 no-m\" clipboard=\"\" data-toggle=\"tooltip\" ng-click=\"toastCopy()\" text=\"bulletAsset.assetId\" title=\"Copy to clipboard\">  <strong>99186708</strong> </a>\n\t<div class=\"divider\">&nbsp;</div>\n\t<a class=\"view-live-link cursor-pointer\" href=\"http://www.tcpalm.com/videos/news/2017/06/22/redefining-high-speed-rail/99186708/\" ng-href=\"http://www.tcpalm.com/videos/news/2017/06/22/redefining-high-speed-rail/99186708/\" ng-if=\"displayViewLiveLink\" target=\"_blank\">View Live</a>   <a class=\"view-live-link cursor-pointer\" ng-click=\"openNewTab(bulletAsset.legacyUrl)\" ng-if=\"displayEditInClassicLink\" target=\"_blank\">Edit in Presto Classic</a>\n\n\t<div class=\"divider\" ng-if=\"displayViewLiveLink || displayEditInNextLink || displayEditInClassicLink\">&nbsp;</div>\n\n\t<ul class=\"list-style-none mb5\">\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Authoring Type</dt>\n\t\t\t<dd>Video</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Credit / Byline</dt>\n\t\t\t<dd>Not set</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Created By:</dt>\n\t\t\t<dd>VTM</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li ng-if=\"!(bulletAsset.createdByUser === bulletAsset.updatedByUser)\">\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Last Updated By:</dt>\n\t\t\t<dd>dllycan@gannett.com</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Source</dt>\n\t\t\t<dd>Wochit</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Classification</dt>\n\t\t\t<dd>news</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Initial Publish</dt>\n\t\t\t<dd>03/14/17 6:36:09 PM</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Embargo Date</dt>\n\t\t\t<dd>01/01/01 12:00:00 AM</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\" ng-class=\"{'text-muted': !bulletAsset.metrics.available}\" style=\"\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Total Views</dt>\n\t\t\t<dd ng-if=\"bulletAsset.metrics.available\">29</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\" ng-class=\"{'text-muted': !bulletAsset.metrics.available}\" style=\"\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Total Social Refers</dt>\n\t\t\t<dd ng-if=\"bulletAsset.metrics.available\">0</dd>\n\t\t</dl>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n</px-asset-bullet>  <span class=\"text-capitalize\">video: </span> <span class=\"item-title-banner\">Redefining high-speed rail</span>\n\n<div class=\"btn-group btn-group-sm px-panel-header-btn px-header-controls pull-right\" id=\"assetCardButtonPanel\"><button class=\"btn btn-default story-quick-view\" tabindex=\"-1\"><px-quick-view-legacy px-quick-view-asset-id=\"99186708\" px-quick-view-authoring-behavior=\"video\" px-quick-view-wrapper=\"\"></px-quick-view-legacy></button><button class=\"btn btn-default fa fa-pencil\" ng-click=\"assetInStoryBodyService.editAsset(asset)\" ng-if=\"assetInStoryBodyService.shouldShowEditButton(asset)\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"true\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Edit\"></button><button class=\"btn btn-default fa fa-minus\" ng-class=\"{'fa-minus': !minimized, 'fa-plus': minimized}\" ng-click=\"minimized = !minimized\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"true\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Show Less\"></button><button class=\"btn btn-default fa fa-close\" ng-click=\"assetInStoryBodyService.removeAssetFromBody(asset)\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"false\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Remove\"></button></div>\n</div>\n\n<div class=\"panel-body\" ng-class=\"{'disabled' : !asset.propertyId}\" ng-hide=\"minimized\">\n<div class=\"px-s position-relative\" ng-if=\"!(asset.html || asset.metadata.html || (asset.authoringTypeCode === 'pullquote' &amp;&amp; asset.title))\">\n<div class=\"px-thumbnail thumbnail px-square-img mr10\">\n<div class=\"px-img px-square-img ng-scope\" ng-style=\"asset | thumbnailStyle\" style=\"background-image: url(&quot;http://videos.gannett-cdn.com/treasurecoast/images/5049773643001/201703/2014/5049773643001_5359495564001_5359477600001-vs.jpg?pubId=5049773643001&quot;);\">&nbsp;</div>\n</div>\n\n<div class=\"px-s-title-brief pr30\">\n<div>\n<p class=\"brief-text\" ng-if=\"asset.promoBrief\">A bill which would allow greater local regulation of high-speed rail service was passed Tuesday, March 14, 2017, by the state Senate Transportation Committee. LISA BROADT/TREASURE COAST NEWSPAPERS</p>\n</div>\n\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n\n<div class=\"label label-color px-label-bottom-right\">Layout Priority </div>\n</div>\n</div>\n\n<div asset=\"::asset\" assetid=\"96457912\" assettype=\"image\" class=\"assetcard\" minimized=\"::minimized\" story-asset-card=\"\">\n<div assetid=\"96457912\" assettype=\"image\" class=\"panel panel-default asset mb0\" contenteditable=\"false\">\n<div class=\"panel-heading panel-title drag-handle ellipsis\"><px-asset-bullet asset=\"asset\" can-change=\"\" class=\"ab asset-bullet-border\" is-embed=\"\" ng-if=\"asset.propertyId\" popover-placement=\"left\" tabindex=\"-1\">\n<div auto-close=\"always\" class=\"btn-group btn-group-xs asset-bullet-container menu dropdown\" ng-click=\"loadAssetBulletData()\" uib-dropdown=\"\">\n<ul class=\"dropdown-menu asset-bullet-dropdown fq-actions pull-left\" role=\"menu\" uib-dropdown-menu=\"\">\n\t<li class=\"fq-action dropdown dropdown-submenu\"><a class=\"dropdown-AssetID cursor-pointer h5 no-m\" clipboard=\"\" data-toggle=\"tooltip\" ng-click=\"toastCopy()\" text=\"bulletAsset.assetId\" title=\"Copy to clipboard\">  <strong>96457912</strong> </a>\n\n\t<div class=\"divider\">&nbsp;</div>\n\t   <a class=\"view-live-link cursor-pointer\" ng-click=\"openNewTab(bulletAsset.legacyUrl)\" ng-if=\"displayEditInClassicLink\" target=\"_blank\">Edit in Presto Classic</a>\n\n\t<div class=\"divider\" ng-if=\"displayViewLiveLink || displayEditInNextLink || displayEditInClassicLink\">&nbsp;</div>\n\n\t<ul class=\"list-style-none mb5\">\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Authoring Type</dt>\n\t\t\t<dd>Image</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Credit / Byline</dt>\n\t\t\t<dd>Not set</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Created By:</dt>\n\t\t\t<dd>lvoss@gannett.com</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Source</dt>\n\t\t\t<dd>Treasure Coast Unknown</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Classification</dt>\n\t\t\t<dd>Not set</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Initial Publish</dt>\n\t\t\t<dd>01/11/17 3:47:11 PM</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Embargo Date</dt>\n\t\t\t<dd>06/22/17 6:40:51 PM</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5 text-muted\" ng-class=\"{'text-muted': !bulletAsset.metrics.available}\" style=\"\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Total Views</dt>\n\t\t\t<dd ng-if=\"!bulletAsset.metrics.available\"><i>Currently unavailable</i></dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5 text-muted\" ng-class=\"{'text-muted': !bulletAsset.metrics.available}\" style=\"\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Total Social Refers</dt>\n\t\t\t<dd ng-if=\"!bulletAsset.metrics.available\"><i>Currently unavailable</i></dd>\n\t\t</dl>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n</px-asset-bullet>  <span class=\"text-capitalize\">image: </span> <span class=\"item-title-banner\">SOF AAF Debut 2</span>\n\n<div class=\"btn-group btn-group-sm px-panel-header-btn px-header-controls pull-right\" id=\"assetCardButtonPanel\"><button class=\"btn btn-default story-quick-view\" tabindex=\"-1\"><px-quick-view-legacy px-quick-view-asset-id=\"96457912\" px-quick-view-authoring-behavior=\"image\" px-quick-view-wrapper=\"\"></px-quick-view-legacy></button><button class=\"btn btn-default fa fa-pencil\" ng-click=\"assetInStoryBodyService.editAsset(asset)\" ng-if=\"assetInStoryBodyService.shouldShowEditButton(asset)\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"true\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Edit\"></button><button class=\"btn btn-default fa fa-minus\" ng-class=\"{'fa-minus': !minimized, 'fa-plus': minimized}\" ng-click=\"minimized = !minimized\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"true\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Show Less\"></button><button class=\"btn btn-default fa fa-close\" ng-click=\"assetInStoryBodyService.removeAssetFromBody(asset)\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"false\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Remove\"></button></div>\n</div>\n\n<div class=\"panel-body\" ng-class=\"{'disabled' : !asset.propertyId}\" ng-hide=\"minimized\">\n<div class=\"px-s position-relative\" ng-if=\"!(asset.html || asset.metadata.html || (asset.authoringTypeCode === 'pullquote' &amp;&amp; asset.title))\">\n<div class=\"px-thumbnail thumbnail px-square-img mr10\">\n<div class=\"px-img px-square-img ng-scope\" ng-style=\"asset | thumbnailStyle\" style=\"background-image: url(&quot;http://www.gannett-cdn.com/-mm-/b9a56fd459f99e20f0513758cdbb72e1210ccc16/r=300x300/local/-/media/2017/01/11/Treasure%20Coast/TreasureCoast/636197462764580126-b1.jpg&quot;);\">&nbsp;</div>\n</div>\n\n<div class=\"px-s-title-brief pr30\">\n<div>\n<p class=\"brief-text\" ng-if=\"asset.promoBrief\">All Aboard Florida and Brightline president Michael Reininger debuted the new &quot;BrightBlue&quot; passenger train during a media day Wednesday, Jan. 11, 2017, at Workshop b, Brightine&#39;s railroad operations facility in West Palm Beach. &quot;South Florida is very close to experiencing the future of train travel, a new travel alternative as an option to private cars on crowded roads,&quot; Reininger said.</p>\n</div>\n\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n\n<div class=\"label label-color px-label-bottom-right\">Layout Priority </div>\n</div>\n</div>\n\n<p>An ongoing&nbsp;4&frac12;-year struggle to secure <span class=\"notes\">needed </span>environmental permits needed for All Aboard Florida&#39;s Brightline passenger-rail service&nbsp;has &quot;sharpened&quot; Michael Reininger&#39;s insights into how government and business could work together more efficiently, the railroad executive told a congressional hearing <span class=\"notes\">said </span>Thursday<span class=\"notes\"> in Washington</span>.</p>\n\n<p>Reininger&nbsp;&mdash; former All Aboard Florida CEO and now&nbsp;executive director of Florida East Coast Industries, Brightline&#39;s parent company&nbsp;&mdash;&nbsp;testified before the <span class=\"notes\">joined the U.S.&nbsp;</span>House <span class=\"notes\">of Representatives&#39; </span>Transportation and Infrastructure Committee along with <span class=\"notes\">, as well as.</span>other rail-industry leaders,&nbsp;to discuss intercity passenger railroad development.&nbsp;</p>\n\n<p>Speaking on behalf of the private sector &mdash; other leaders were from Amtrak and the Federal Railroad Administration &mdash;&nbsp;Reininger described his experiences building the Miami-to-Orlando passenger railroad, which is to begin limited service this fall.</p>\n\n<p>He emphasized the importance of reducing uncertainty.</p>\n\n<p>Private development, especially &quot;pioneering efforts, such as (All Aboard Florida),&quot;&nbsp;need a predictable system with streamlined&nbsp;regulations, Reininger said.</p>\n\n<p>&quot;While there is ample equity &mdash; such as ours &mdash; ready to invest in transportation,&nbsp;the lack of precedent of new systems, coupled with uncertain permitting, have limited the availability of the appropriate debt needed to complete the capital equation,&quot; Reininger said.</p>\n\n<p>&quot;Our own experiences with expanding our business into its second phase, an incremental investment of $2 billion, clearly demonstrates these points,&quot; Reininger added, referring to <span class=\"notes\">about </span>the company&#39;s&nbsp; frustrations with financing and extending<span class=\"notes\">expanding</span> Brightline&#39;s phase 2,&nbsp;from West Palm Beach, through the Treasure Coast and Space Coast and on&nbsp;to Orlando International Airport.</p>\n\n<div asset=\"::asset\" assetid=\"421489001\" assettype=\"embed\" class=\"assetcard\" minimized=\"::minimized\" story-asset-card=\"\">\n<div assetid=\"421489001\" assettype=\"embed\" class=\"panel panel-default asset mb0\" contenteditable=\"false\">\n<div class=\"panel-heading panel-title drag-handle ellipsis\"><px-asset-bullet asset=\"asset\" can-change=\"\" class=\"ab asset-bullet-border\" is-embed=\"\" ng-if=\"asset.propertyId\" popover-placement=\"left\" tabindex=\"-1\">\n<div auto-close=\"always\" class=\"btn-group btn-group-xs asset-bullet-container menu dropdown\" ng-click=\"loadAssetBulletData()\" uib-dropdown=\"\">\n<ul class=\"dropdown-menu asset-bullet-dropdown fq-actions pull-left\" role=\"menu\" uib-dropdown-menu=\"\">\n\t<li class=\"fq-action dropdown dropdown-submenu\"><a class=\"dropdown-AssetID cursor-pointer h5 no-m\" clipboard=\"\" data-toggle=\"tooltip\" ng-click=\"toastCopy()\" text=\"bulletAsset.assetId\" title=\"Copy to clipboard\">  <strong>421489001</strong> </a>\n\n\t<div class=\"divider\">&nbsp;</div>\n\t<a class=\"view-live-link cursor-pointer\" href=\"https://youtu.be/_CDq2bQ1H3A?t=1h36m54s\" ng-href=\"https://youtu.be/_CDq2bQ1H3A?t=1h36m54s\" ng-if=\"displayViewLiveLink\" target=\"_blank\">View Live</a>\n\n\t<div class=\"divider\" ng-if=\"displayViewLiveLink || displayEditInNextLink || displayEditInClassicLink\">&nbsp;</div>\n\n\t<ul class=\"list-style-none mb5\">\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Authoring Type</dt>\n\t\t\t<dd>Embed</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Credit / Byline</dt>\n\t\t\t<dd>Not set</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Created By:</dt>\n\t\t\t<dd>lbroadt</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Source</dt>\n\t\t\t<dd>Not set</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Classification</dt>\n\t\t\t<dd>Not set</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Initial Publish</dt>\n\t\t\t<dd>06/22/17 5:03:25 PM</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Embargo Date</dt>\n\t\t\t<dd>Not embargoed</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5 text-muted\" ng-class=\"{'text-muted': !bulletAsset.metrics.available}\" style=\"\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Total Views</dt>\n\t\t\t<dd ng-if=\"!bulletAsset.metrics.available\"><i>Currently unavailable</i></dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5 text-muted\" ng-class=\"{'text-muted': !bulletAsset.metrics.available}\" style=\"\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Total Social Refers</dt>\n\t\t\t<dd ng-if=\"!bulletAsset.metrics.available\"><i>Currently unavailable</i></dd>\n\t\t</dl>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n</px-asset-bullet>  <span class=\"text-capitalize\">embed: </span> <span class=\"item-title-banner\">#Building21: Challenges and Opportunities for Intercity Passenger Rail Service</span>\n\n<div class=\"btn-group btn-group-sm px-panel-header-btn px-header-controls pull-right\" id=\"assetCardButtonPanel\"><button class=\"btn btn-default story-quick-view\" tabindex=\"-1\"><px-quick-view-legacy px-quick-view-asset-id=\"421489001\" px-quick-view-authoring-behavior=\"generic\" px-quick-view-wrapper=\"\"></px-quick-view-legacy></button><button class=\"btn btn-default fa fa-minus\" ng-class=\"{'fa-minus': !minimized, 'fa-plus': minimized}\" ng-click=\"minimized = !minimized\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"true\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Show Less\"></button><button class=\"btn btn-default fa fa-close\" ng-click=\"assetInStoryBodyService.removeAssetFromBody(asset)\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"false\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Remove\"></button></div>\n</div>\n\n<div class=\"panel-body\" ng-class=\"{'disabled' : !asset.propertyId}\" ng-hide=\"minimized\">\n<div ng-bind-html=\"((asset | pxPullQuoteTitle) || asset.metadata.html || asset.html) | trusted\" ng-class=\"{'p5' : asset.authoringTypeCode === 'pullquote'}\" ng-if=\"(asset.html || asset.metadata.html || (asset.authoringTypeCode === 'pullquote' &amp;&amp; asset.title))\"><iframe allowfullscreen=\"\" class=\"embedly-embed\" frameborder=\"0\" height=\"480\" scrolling=\"no\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_CDq2bQ1H3A%3Fstart%3D5814%26feature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_CDq2bQ1H3A&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_CDq2bQ1H3A%2Fhqdefault.jpg&amp;key=5ba8761fabe14af29c6cb21d8d3fb1a5&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"854\"></iframe></div>\n</div>\n\n<div class=\"label label-color px-label-bottom-right\">Layout Priority </div>\n</div>\n</div>\n\n<p>The $3.1 billion railroad&nbsp;over the past three years has <a href=\"http://archive.tcpalm.com/news/shaping-our-future/all-aboard-florida/analysis-federal-court-decision-could-be-a-turning-point-in-the-all-aboard-florida-battle-3a381a19-0-390829111.html\">struggled to finalize its preferred financing plans</a> for phase 2.</p>\n\n<p>Both a $1.6 billion federal loan application and $600 million of private-activity bonds remain in limbo. The company repeatedly has said it can finance phase 2&nbsp;without the loan or bonds, though on Thursday, Reininger expressed hope in still selling the tax-free bonds.<span class=\"notes\">private activity bond system..</span></p>\n\n<p>Currently, tax-free bonds&nbsp;are unnecessarily &quot;opaque and complex,&quot; but &quot;easily&quot; could be fixed, according to Reininger.</p>\n\n<p>Removing ambiguity from private-activity bonds would provide the private sector &quot;the kind of efficient debt needed to incent&nbsp;<img class=\"notes px-cq\" src=\"https://presto.gannettdigital.com/dist/0.2.2503/public/lib/ckeditor/plugins/copycheck/icons/CopyCheckReverse.png\" title=\"Copy checked\" />investment,&quot; Reininger said.</p>\n\n<p>Asked <span class=\"notes\">later in the meeting&nbsp;</span>by Rep. Daniel Webster, R-FL, about his biggest frustration with the federal government, Reininger spoke about the financial toll caused by long government delays, which, he said, extend project time frames and cause complications that waste money,</p>\n\n<p><span class=\"notes\">Lack of cohesion JARGON?? has resulted in &quot;protracting processes, extending time frames and causing complications&quot; that waste money, Reininger said.</span>Halfway through the three-hour hearing, <span class=\"notes\">committee meeting, </span>Rep. Brian Mast, R-Palm City&nbsp;&mdash; who represents parts of the Treasure Coast and is&nbsp;an opponent of Brightline &mdash; grilled Reininger about All Aboard Florida&#39;s financing and transparency, and, in particular, whether Brightline is an entirely privately funded business, as it claims.</p>\n\n<p>Brightline is to begin limited South Florida service this fall with expansion to Orlando still several years away.</p>\n\n<div asset=\"::asset\" assetid=\"96484468\" assettype=\"video\" class=\"assetcard\" minimized=\"::minimized\" story-asset-card=\"\">\n<div assetid=\"96484468\" assettype=\"video\" class=\"panel panel-default asset mb0\" contenteditable=\"false\">\n<div class=\"panel-heading panel-title drag-handle ellipsis\"><px-asset-bullet asset=\"asset\" can-change=\"\" class=\"ab asset-bullet-border\" is-embed=\"\" ng-if=\"asset.propertyId\" popover-placement=\"left\" tabindex=\"-1\">\n<div auto-close=\"always\" class=\"btn-group btn-group-xs asset-bullet-container menu dropdown\" ng-click=\"loadAssetBulletData()\" uib-dropdown=\"\">\n<ul class=\"dropdown-menu asset-bullet-dropdown fq-actions pull-left\" role=\"menu\" uib-dropdown-menu=\"\">\n\t<li class=\"fq-action dropdown dropdown-submenu\"><a class=\"dropdown-AssetID cursor-pointer h5 no-m\" clipboard=\"\" data-toggle=\"tooltip\" ng-click=\"toastCopy()\" text=\"bulletAsset.assetId\" title=\"Copy to clipboard\">  <strong>96484468</strong> </a>\n\n\t<div class=\"divider\">&nbsp;</div>\n\t<a class=\"view-live-link cursor-pointer\" href=\"http://www.tcpalm.com/videos/news/local/florida/2017/01/12/brightline-train-tour/96484468/\" ng-href=\"http://www.tcpalm.com/videos/news/local/florida/2017/01/12/brightline-train-tour/96484468/\" ng-if=\"displayViewLiveLink\" target=\"_blank\">View Live</a>   <a class=\"view-live-link cursor-pointer\" ng-click=\"openNewTab(bulletAsset.legacyUrl)\" ng-if=\"displayEditInClassicLink\" target=\"_blank\">Edit in Presto Classic</a>\n\n\t<div class=\"divider\" ng-if=\"displayViewLiveLink || displayEditInNextLink || displayEditInClassicLink\">&nbsp;</div>\n\n\t<ul class=\"list-style-none mb5\">\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Authoring Type</dt>\n\t\t\t<dd>Video</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Credit / Byline</dt>\n\t\t\t<dd>Not set</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Created By:</dt>\n\t\t\t<dd>krogers</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Source</dt>\n\t\t\t<dd>Treasure Coast</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Classification</dt>\n\t\t\t<dd>news/local/florida</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Initial Publish</dt>\n\t\t\t<dd>01/12/17 10:39:28 AM</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Embargo Date</dt>\n\t\t\t<dd>01/12/17 10:07:26 AM</dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5 text-muted\" ng-class=\"{'text-muted': !bulletAsset.metrics.available}\" style=\"\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Total Views</dt>\n\t\t\t<dd ng-if=\"!bulletAsset.metrics.available\"><i>Currently unavailable</i></dd>\n\t\t</dl>\n\t\t</li>\n\t\t<li>\n\t\t<dl class=\"fq-dl pt5 text-muted\" ng-class=\"{'text-muted': !bulletAsset.metrics.available}\" style=\"\">\n\t\t\t<dt class=\"asset-bullet-metadata-title\">Total Social Refers</dt>\n\t\t\t<dd ng-if=\"!bulletAsset.metrics.available\"><i>Currently unavailable</i></dd>\n\t\t</dl>\n\t\t</li>\n\t</ul>\n\t</li>\n</ul>\n</div>\n</px-asset-bullet>  <span class=\"text-capitalize\">video: </span> <span class=\"item-title-banner\">Brightline train tour</span>\n\n<div class=\"btn-group btn-group-sm px-panel-header-btn px-header-controls pull-right\" id=\"assetCardButtonPanel\"><button class=\"btn btn-default story-quick-view\" tabindex=\"-1\"><px-quick-view-legacy px-quick-view-asset-id=\"96484468\" px-quick-view-authoring-behavior=\"video\" px-quick-view-wrapper=\"\"></px-quick-view-legacy></button><button class=\"btn btn-default fa fa-pencil ng-animate ng-enter ng-enter-active\" data-ng-animate=\"2\" ng-click=\"assetInStoryBodyService.editAsset(asset)\" ng-if=\"assetInStoryBodyService.shouldShowEditButton(asset)\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"true\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Edit\"></button><button class=\"btn btn-default fa ng-animate fa-minus-add fa-minus fa-minus-add-active\" data-ng-animate=\"2\" ng-class=\"{'fa-minus': !minimized, 'fa-plus': minimized}\" ng-click=\"minimized = !minimized\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"true\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Show Less\"></button><button class=\"btn btn-default fa fa-close\" ng-click=\"assetInStoryBodyService.removeAssetFromBody(asset)\" tabindex=\"-1\" tooltip-animation=\"false\" tooltip-append-to-body=\"false\" tooltip-placement=\"bottom\" tooltip-popup-delay=\"500\" tooltip-trigger=\"mouseenter\" uib-tooltip=\"Remove\"></button></div>\n</div>\n\n<div class=\"panel-body\" ng-class=\"{'disabled' : !asset.propertyId}\" ng-hide=\"minimized\">\n<div class=\"px-s position-relative\" ng-if=\"!(asset.html || asset.metadata.html || (asset.authoringTypeCode === 'pullquote' &amp;&amp; asset.title))\">\n<div class=\"px-thumbnail thumbnail px-square-img mr10\">\n<div class=\"px-img px-square-img ng-scope\" ng-style=\"asset | thumbnailStyle\" style=\"background-image: url(&quot;http://videos.gannett-cdn.com/treasurecoast/images/5049773643001/201701/492/5049773643001_5279501441001_5279480164001-vs.jpg?pubId=5049773643001&quot;);\">&nbsp;</div>\n</div>\n\n<div class=\"px-s-title-brief pr30\">\n<div>\n<p class=\"brief-text\" ng-if=\"asset.promoBrief\">Brightline debuts its first new passenger train at grand unveiling event.</p>\n</div>\n\n<div>&nbsp;</div>\n</div>\n</div>\n</div>\n\n<div class=\"label label-color px-label-bottom-right\">Layout Priority </div>\n</div>\n</div>\n\n<p>&nbsp;</p>\n",
+"printRank": "Must Run",
+"associatedAssets": [
+{
+"id": 96462342,
+"readModelName": "search-result",
+"attributes": {
+"numCrops": "6"
+},
+"attribution": {
+"author": "LEAH VOSS/TREASURE COAST NEWSPAPERS",
+"publication": "TREASURE COAST NEWSPAPERS"
+},
+"contentSourceName": "Treasure Coast-Unknown",
+"aggregateId": "96462342",
+"status": "published",
+"createdDate": "2017-01-11T22:07:02.400Z",
+"updatedDate": "2017-01-11T22:07:02.400Z",
+"userUpdatedDate": "2017-01-11T22:07:02.400Z",
+"scheduledPublishDate": "2017-01-11T22:07:00.740Z",
+"authoringTypeCode": "image",
+"authoringBehavior": "image",
+"lastPublishedDate": "2017-01-11T22:07:02.440Z",
+"contentQueueDate": "2017-01-11T22:07:02.440Z",
+"initialPublishedDate": "2017-01-11T22:07:02.440Z",
+"expiration": "0001-01-01T05:00:00.000Z",
+"createdByUser": "lvoss@gannett.com",
+"updatedByUser": "lvoss@gannett.com",
+"createdBySystem": "Presto",
+"updatedBySystem": "Presto",
+"siteCode": "PTCN",
+"assetGroupId": 3597,
+"assetGroupName": "TreasureCoast",
+"isEvergreen": false,
+"propertyId": 417,
+"propertyName": "Treasure Coast",
+"propertyDisplayName": "Treasure Coast",
+"title": "SOF AAF Debut 1",
+"promoImageId": null,
+"shortUrl": "",
+"url": "",
+"isCurrentlyPublished": true,
+"tags": [],
+"promoBrief": "All Aboard Florida and Brightline president Mike Reininger debuted the new \"BrightBlue\" passenger train during a media day Wednesday at Workshop b, Brightine's railroad operations facility in West Palm Beach. \"South Florida is very close to experiencing the future of train travel, a new travel alternative as an option to private cars on crowded roads,\" Reininger said. ",
+"promoHeadline": null,
+"ssts": "",
+"contentSourceCode": "PTCN_UNK",
+"thumbnail": "http://www.gannett-cdn.com/-mm-/b9a56fd459f99e20f0513758cdbb72e1210ccc16/r=300x300/local/-/media/2017/01/11/Treasure%20Coast/TreasureCoast/636197505901593668-Voss-Brightline003.JPG"
+},
+{
+"id": 96457912,
+"readModelName": "search-result",
+"attributes": {
+"numCrops": "6"
+},
+"attribution": {
+"author": "LEAH VOSS/TCPALM",
+"publication": "TREASURE COAST NEWSPAPERS"
+},
+"contentSourceName": "Treasure Coast-Unknown",
+"aggregateId": "96457912",
+"status": "published",
+"createdDate": "2017-01-11T20:47:11.277Z",
+"updatedDate": "2017-06-22T22:40:51.230Z",
+"userUpdatedDate": "2017-06-22T22:40:51.230Z",
+"scheduledPublishDate": "2017-06-22T22:40:51.333Z",
+"authoringTypeCode": "image",
+"authoringBehavior": "image",
+"lastPublishedDate": "2017-01-11T20:47:11.380Z",
+"contentQueueDate": "2017-01-11T20:47:11.380Z",
+"initialPublishedDate": "2017-01-11T20:47:11.380Z",
+"expiration": "0001-01-01T05:00:00.000Z",
+"createdByUser": "lvoss@gannett.com",
+"updatedByUser": "lvoss@gannett.com",
+"createdBySystem": "Presto",
+"updatedBySystem": "Presto",
+"siteCode": "PTCN",
+"assetGroupId": 3597,
+"assetGroupName": "TreasureCoast",
+"isEvergreen": false,
+"propertyId": 417,
+"propertyName": "TreasureCoast",
+"propertyDisplayName": "Treasure Coast",
+"title": "SOF AAF Debut 2",
+"promoImageId": null,
+"shortUrl": "",
+"url": "",
+"isCurrentlyPublished": true,
+"tags": [],
+"promoBrief": "All Aboard Florida and Brightline president Michael Reininger debuted the new \"BrightBlue\" passenger train during a media day Wednesday, Jan. 11, 2017, at Workshop b, Brightine's railroad operations facility in West Palm Beach. \"South Florida is very close to experiencing the future of train travel, a new travel alternative as an option to private cars on crowded roads,\" Reininger said.",
+"promoHeadline": null,
+"ssts": "",
+"contentSourceCode": "PTCN_UNK",
+"thumbnail": "http://www.gannett-cdn.com/-mm-/b9a56fd459f99e20f0513758cdbb72e1210ccc16/r=300x300/local/-/media/2017/01/11/Treasure%20Coast/TreasureCoast/636197462764580126-b1.jpg"
+},
+{
+"id": 421489001,
+"readModelName": "search-result",
+"authoringTypeCode": "embed",
+"authoringBehavior": "generic",
+"metadata": {
+"type": "rich",
+"version": "1.0",
+"title": "#Building21: Challenges and Opportunities for Intercity Passenger Rail Service",
+"url": "https://youtu.be/_CDq2bQ1H3A?t=1h36m54s",
+"author_name": "Chairman Bill Shuster",
+"author_url": "https://www.youtube.com/user/TransportationGOP",
+"provider_name": "YouTube",
+"provider_url": "https://www.youtube.com/",
+"original_type": "video",
+"thumbnail_url": "https://i.ytimg.com/vi/_CDq2bQ1H3A/hqdefault.jpg",
+"thumbnail_width": 480,
+"thumbnail_height": 360,
+"height": 480,
+"width": 854,
+"html": "<iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_CDq2bQ1H3A%3Fstart%3D5814%26feature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_CDq2bQ1H3A&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_CDq2bQ1H3A%2Fhqdefault.jpg&key=5ba8761fabe14af29c6cb21d8d3fb1a5&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+},
+"sourceType": "url",
+"aggregateId": "b02f24c5-ed78-44d4-adb2-d64991dc5b73",
+"legacyId": null,
+"thumbnail": "https://i.ytimg.com/vi/_CDq2bQ1H3A/hqdefault.jpg",
+"url": "https://youtu.be/_CDq2bQ1H3A?t=1h36m54s",
+"title": "#Building21: Challenges and Opportunities for Intercity Passenger Rail Service",
+"ssts": "",
+"scheduledPublishDate": null,
+"lastPublishedDate": "2017-06-22T21:03:25.060Z",
+"lastPublishedHash": "4a69f4259c1e02bec366d71adf5275d4",
+"initialPublishedDate": "2017-06-22T21:03:25.060Z",
+"propertyId": 417,
+"propertyName": "TreasureCoast",
+"propertyDisplayName": "Treasure Coast",
+"siteCode": "PTCN",
+"assetGroupId": "3597",
+"assetGroupName": "TreasureCoast",
+"assignees": null,
+"isEvergreen": false,
+"isCurrentlyPublished": true,
+"attributes": {},
+"tags": [],
+"status": "published",
+"planningStatus": null,
+"promoBrief": null,
+"attribution": {},
+"expiration": null,
+"contentSourceName": null,
+"contentSourceCode": null,
+"priorityAssetTypeName": null,
+"previewUrl": null,
+"associatedAssets": [],
+"eventState": {
+"requestedHash": "6f9b4a036857c042fb5224f6d3ebc88b",
+"headHash": "6f9b4a036857c042fb5224f6d3ebc88b"
+},
+"updatedDate": "2017-06-22T21:03:25.083Z",
+"updatedByUser": "lbroadt",
+"updatedBySystem": "geronimo-publish-handler",
+"currentVersionHash": "6f9b4a036857c042fb5224f6d3ebc88b",
+"currentVersionDate": 1498165405083,
+"userUpdatedDate": "2017-06-22T21:03:25.083Z",
+"aggregateName": "embed",
+"createdByUser": "lbroadt",
+"createdBySystem": "Presto Next",
+"createdDate": "2017-06-22T21:03:24.910Z"
+},
+{
+"id": 99186708,
+"readModelName": "search-result",
+"attributes": {
+"brightcoveId": "5359477600001",
+"brightcoveStatus": "complete",
+"length": "00:51"
+},
+"attribution": {
+"author": "Wochit",
+"publication": "Wochit"
+},
+"contentSourceName": "Wochit",
+"aggregateId": "99186708",
+"status": "published",
+"createdDate": "2017-03-14T22:31:01.140Z",
+"updatedDate": "2017-06-22T22:41:47.687Z",
+"userUpdatedDate": "2017-06-22T22:41:47.687Z",
+"scheduledPublishDate": "0001-01-01T05:00:00.000Z",
+"authoringTypeCode": "video",
+"authoringBehavior": "video",
+"lastPublishedDate": "2017-06-22T22:41:47.687Z",
+"contentQueueDate": "2017-06-22T22:41:47.687Z",
+"initialPublishedDate": "2017-03-14T22:36:09.867Z",
+"expiration": "0001-01-01T05:00:00.000Z",
+"createdByUser": "VTM",
+"updatedByUser": "dllycan@gannett.com",
+"createdBySystem": null,
+"updatedBySystem": null,
+"siteCode": "PTCN",
+"assetGroupId": 3597,
+"assetGroupName": "TreasureCoast",
+"isEvergreen": false,
+"propertyId": 417,
+"propertyName": "TreasureCoast",
+"propertyDisplayName": "Treasure Coast",
+"title": "Redefining high-speed rail",
+"promoImageId": null,
+"shortUrl": "http://www.tcpalm.com/videos/news/2017/06/22/redefining-high-speed-rail/99186708/",
+"url": "http://www.tcpalm.com/videos/news/2017/06/22/redefining-high-speed-rail/99186708/",
+"isCurrentlyPublished": true,
+"tags": [
+{
+"id": "49c9ab98-58d8-4083-9776-1f1529312163",
+"isPrimary": true,
+"name": "Brightline",
+"path": "TRANSPORTATION AND INFRASTRUCTURE ORGANIZATIONS/Brightline",
+"schema": "Organizations"
+},
+{
+"id": "091dbb94-bbcb-439c-b2db-504f681637d0",
+"isPrimary": false,
+"name": "High speed rail",
+"path": "TRAFFIC AND TRANSIT/Mass transit/High speed rail",
+"schema": "Subjects"
+},
+{
+"id": "1e239aed-6791-4a84-a275-710d835634fa",
+"isPrimary": false,
+"name": "All Aboard Florida",
+"path": "All Aboard Florida",
+"schema": "Companies"
+}
+],
+"promoBrief": "A bill which would allow greater local regulation of high-speed rail service was passed Tuesday, March 14, 2017, by the state Senate Transportation Committee. LISA BROADT/TREASURE COAST NEWSPAPERS",
+"promoHeadline": null,
+"ssts": "news",
+"contentSourceCode": "WCIT",
+"thumbnail": "http://videos.gannett-cdn.com/treasurecoast/images/5049773643001/201703/2014/5049773643001_5359495564001_5359477600001-vs.jpg?pubId=5049773643001"
+},
+{
+"id": 96484468,
+"readModelName": "search-result",
+"attributes": {
+"brightcoveId": "5279480164001",
+"brightcoveStatus": "complete",
+"length": "16:27"
+},
+"attribution": {
+"author": "LISA BROADT/TREASURE COAST NEWSPAPERS"
+},
+"contentSourceName": "Treasure Coast",
+"aggregateId": "96484468",
+"status": "published",
+"createdDate": "2017-01-12T15:07:26.167Z",
+"updatedDate": "2017-01-12T15:39:28.400Z",
+"userUpdatedDate": "2017-01-12T15:39:28.400Z",
+"scheduledPublishDate": "2017-01-12T15:07:26.307Z",
+"authoringTypeCode": "video",
+"authoringBehavior": "video",
+"lastPublishedDate": "2017-01-12T15:39:28.400Z",
+"contentQueueDate": "2017-01-12T15:39:28.400Z",
+"initialPublishedDate": "2017-01-12T15:39:28.400Z",
+"expiration": "0001-01-01T05:00:00.000Z",
+"createdByUser": "krogers",
+"updatedByUser": "krogers",
+"createdBySystem": "Presto",
+"updatedBySystem": null,
+"siteCode": "PTCN",
+"assetGroupId": 3597,
+"assetGroupName": "TreasureCoast",
+"isEvergreen": false,
+"propertyId": 417,
+"propertyName": "Treasure Coast",
+"propertyDisplayName": "Treasure Coast",
+"title": "Brightline train tour",
+"promoImageId": null,
+"shortUrl": "http://www.tcpalm.com/videos/news/local/florida/2017/01/12/brightline-train-tour/96484468/",
+"url": "http://www.tcpalm.com/videos/news/local/florida/2017/01/12/brightline-train-tour/96484468/",
+"isCurrentlyPublished": true,
+"tags": [
+{
+"id": "49c9ab98-58d8-4083-9776-1f1529312163",
+"isPrimary": false,
+"name": "Brightline",
+"path": "TRANSPORTATION AND INFRASTRUCTURE ORGANIZATIONS/Brightline",
+"schema": "Organizations"
+},
+{
+"id": "1e239aed-6791-4a84-a275-710d835634fa",
+"isPrimary": true,
+"name": "All Aboard Florida",
+"path": "All Aboard Florida",
+"schema": "Companies"
+},
+{
+"id": "f0a2391e-5586-4823-9da4-867ad1c3035d",
+"isPrimary": false,
+"name": "Trains",
+"path": "PRODUCTS AND SERVICES/Vehicles/Trains",
+"schema": "Subjects"
+}
+],
+"promoBrief": "Brightline debuts its first new passenger train at grand unveiling event.",
+"promoHeadline": null,
+"ssts": "news/local/florida",
+"contentSourceCode": "PTCN",
+"thumbnail": "http://videos.gannett-cdn.com/treasurecoast/images/5049773643001/201701/492/5049773643001_5279501441001_5279480164001-vs.jpg?pubId=5049773643001"
+}
+],
+"frontAssignments": [
+{
+"id": "section-front_PTCN_home",
+"recommendedDate": "2017-06-23T14:10:03.914Z",
+"isAutoFront": true,
+"legacyId": null,
+"friendlyId": 62541,
+"siteCode": "PTCN",
+"name": "home",
+"displayName": "Home",
+"aggregateName": "section-front"
+},
+{
+"id": "section-front_PTCN_news",
+"recommendedDate": "2017-06-23T14:10:03.914Z",
+"isAutoFront": true,
+"legacyId": null,
+"friendlyId": 62543,
+"siteCode": "PTCN",
+"name": "news",
+"displayName": "News",
+"aggregateName": "section-front"
+},
+{
+"id": "section-front_PTCN_news_shaping-our-future",
+"recommendedDate": "2017-06-23T14:10:03.914Z",
+"isAutoFront": true,
+"legacyId": null,
+"friendlyId": 62617,
+"siteCode": "PTCN",
+"name": "news_shaping-our-future",
+"displayName": "Shaping Our Future",
+"aggregateName": "section-front"
+},
+{
+"id": "section-front_PTCN_news_all-aboard-florida",
+"recommendedDate": "2017-06-23T14:10:03.914Z",
+"isAutoFront": true,
+"legacyId": null,
+"friendlyId": 1012460,
+"siteCode": "PTCN",
+"name": "news_all-aboard-florida",
+"displayName": "All Aboard Florida",
+"aggregateName": "section-front"
+}
+],
+"canonicalUrl": null,
+"subhead": "",
+"printRunDate": null,
+"highlights": [],
+"readerCommentsEnabled": true,
+"noAdvertising": false,
+"desktopOnly": false,
+"notes": "",
+"pageUrl": "http://www.tcpalm.com/story/news/local/shaping-our-future/all-aboard-florida/2017/06/22/brightline-exec-tells-congress-better-cooperation-needed-between-government-business/419079001/",
+"pageTitle": "Brightline exec to Congress: Better government-business cooperation needed",
+"planDate": "2017-06-23T13:00:00.000Z",
+"slug": "0623 SOF AAF MTG",
+"sentToNewsgate": true,
+"assignees": [
+{
+"id": "lbroadt",
+"readModelName": "search-result",
+"aggregateId": "lbroadt",
+"firstName": "Lisa",
+"lastName": "Broadt",
+"email": "lisa.broadt@tcpalm.com",
+"byline": "Lisa Broadt",
+"staffFolder": "",
+"bioTitle": {
+"id": "2c56c99e-abc0-483a-8b1d-49927df50aee",
+"name": "Reporter",
+"displayName": "Reporter",
+"path": "Titles/Reporter",
+"vocabulary": "StaffMetadata",
+"attributes": {
+"statusTerm": [
+"Validated"
+],
+"prefLabel": [
+"Reporter"
+],
+"doNotTag": [
+"true"
+],
+"created": [
+"8/24/2016 9:03:21 PM"
+],
+"createdBy": [
+"lschill"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+"profileImage": {},
+"phoneNumber": "7722214128",
+"bio": "",
+"googlePlusUrl": "",
+"facebookUrl": "",
+"twitterHandle": "",
+"linkedinUrl": "",
+"pinterestUrl": "",
+"bylineSources": [
+"TCPalm"
+],
+"instagramUrl": "",
+"youtubeUrl": "",
+"snapchatUrl": "",
+"isActive": true,
+"almamaters": [],
+"hometowns": [],
+"hobbies": [
+{
+"id": "3051cd5a-b19d-4c63-a54c-d0a23a15fc46",
+"name": "Journalism",
+"displayName": "Journalism",
+"path": "BUSINESS, ECONOMY, AND FINANCE/Industries/Media/News media/Journalism",
+"vocabulary": "Subjects",
+"attributes": {
+"definition": [
+"Activity or profession of writing for newspapers or magazines or of broadcasting news on radio or television."
+],
+"prefLabel": [
+"Journalism"
+],
+"requestor": [
+"M. Fowler"
+],
+"comment": [
+"USAT, added 20150305",
+"Created by Keith DeWeese kdeweese"
+],
+"created": [
+"2015-03-05T12:08:46.235-05:00"
+],
+"doNotextract": [
+"true"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"lschill-script"
+],
+"modified": [
+"5/13/2016 7:43:01 AM"
+],
+"hasChildren": [
+"false"
+]
+}
+}
+],
+"languages": [],
+"skills": [
+{
+"id": "ab8151ad-ad09-456e-b1d7-1feb573c320f",
+"name": "enterprise reporting",
+"displayName": "enterprise reporting",
+"path": "Professional Skills/enterprise reporting",
+"vocabulary": "StaffMetadata",
+"attributes": {
+"statusTerm": [
+"Validated"
+],
+"doNotTag": [
+"true"
+],
+"modified": [
+"2017-05-11T19:52:49.449Z"
+],
+"modifiedBy": [
+"jwolf"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"hasChildren": [
+"false"
+]
+}
+}
+],
+"username": "",
+"beats": [],
+"legacyStaffs": [],
+"displayName": "Lisa Broadt",
+"staffHometowns": [],
+"primaryNewsRoom": "PTCN",
+"eventState": {
+"requestedHash": "17dd76242b23f4e298c6f13edd5e83fd",
+"headHash": "17dd76242b23f4e298c6f13edd5e83fd"
+},
+"updatedDate": "2017-05-22T15:58:05.208Z",
+"updatedByUser": "lbroadt",
+"updatedBySystem": "Presto Next",
+"currentVersionHash": "17dd76242b23f4e298c6f13edd5e83fd",
+"currentVersionDate": 1495468685208,
+"userUpdatedDate": "2017-05-22T15:58:05.208Z",
+"aggregateName": "contributor-profile",
+"createdByUser": "lbroadt",
+"createdBySystem": "Presto Next",
+"createdDate": "2016-11-18T19:22:03.851Z",
+"friendlyId": 301142001
+}
+],
+"status": "published",
+"planningStatus": "published",
+"contentQueueDate": "2017-06-23T14:10:03.914Z",
+"authoringTypeCode": "story",
+"layoutPriorityAssetId": 99186708,
+"systemTags": [],
+"featuredSeries": null,
+"assetGroup": {
+"id": 3597,
+"assetGroupId": 3597,
+"assetGroupName": "TreasureCoast",
+"siteId": 561,
+"propertyId": 417,
+"title": null,
+"url": null,
+"property": {
+"propertyId": 417,
+"propertyName": "TreasureCoast",
+"propertyDisplayName": "Treasure Coast"
+},
+"site": {
+"siteId": 561,
+"siteName": "Treasure Coast",
+"siteCode": "PTCN",
+"propertyId": 417
+}
+},
+"contentTags": [
+{
+"id": "9b9079ff-a47e-4824-bc35-492781aa0cd7",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "U.S. Congress",
+"displayName": "U.S. Congress",
+"path": "GOVERNMENT ORGANIZATIONS/U.S. Congress",
+"vocabulary": "Organizations",
+"attributes": {
+"prefLabel": [
+"U.S. Congress"
+],
+"altLabel": [
+"United States Congress",
+"US Congress"
+],
+"created": [
+"2012-06-07T03:30:46.944Z"
+],
+"definition": [
+"\"The bicameral legislature of the federal government of the United States consisting of two houses: the Senate and the House of Representatives.\" (Source: Wikipedia)"
+],
+"homepage": [
+"https://www.congress.gov/"
+],
+"modified": [
+"2017-05-19T22:14:51.897Z"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"hasChildren": [
+"true"
+]
+}
+},
+{
+"id": "bda1ef8a-c39f-4f56-bb79-5685bbb78fd6",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "Brian Mast",
+"displayName": "Brian Mast",
+"path": "POLITICIANS/Brian Mast",
+"vocabulary": "Persons",
+"attributes": {
+"created": [
+"2016-09-16T13:35:21.000Z"
+],
+"createdBy": [
+"esamples"
+],
+"modified": [
+"2017-02-21T21:02:50.874Z"
+],
+"modifiedBy": [
+"jsstewart"
+],
+"prefLabel": [
+"Brian Mast"
+],
+"definition": [
+"Brian Mast is the U.S. House Representative for Florida's District 18. He is a Republican and was elected to the position in November 2016, defeating Democrat Randy Perkins."
+],
+"statusTerm": [
+"Validated"
+],
+"doNotextract": [
+"false"
+],
+"requestor": [
+"esamples"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"comment": [
+"Candidate, 20160916, KBD",
+"Reviewed and Validated, JSS, 20170221"
+],
+"assignedTo": [
+"JSStewart"
+],
+"altLabel": [
+"Brian Jeffery Mast"
+],
+"homepage": [
+"https://mast.house.gov/"
+],
+"birthdate": [
+"1980-07-10T04:00:00.000Z"
+],
+"socialFacebook": [
+"https://www.facebook.com/BrianMastFL/"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+{
+"id": "2f5dd47a-ca6e-4ee5-a799-ff7e8c765b69",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "U.S. House of Representatives",
+"displayName": "U.S. House of Representatives",
+"path": "GOVERNMENT ORGANIZATIONS/U.S. House of Representatives",
+"vocabulary": "Organizations",
+"attributes": {
+"altLabel": [
+"House of Representatives",
+"United States House of Representatives",
+"US House of Representatives"
+],
+"prefLabel": [
+"U.S. House of Representatives"
+],
+"homepage": [
+"http://www.house.gov/"
+],
+"created": [
+"2012-06-07T03:33:08.656Z"
+],
+"comment": [
+"Added definition HW 20150630"
+],
+"definition": [
+"Part of the U.S. Congress. Known as \"The House.\" They create bills to be passed to the Senate and the U.S. President."
+],
+"doNotextract": [
+"false"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"modified": [
+"2017-05-22T15:44:43.661Z"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"hasChildren": [
+"true"
+]
+}
+},
+{
+"id": "e21bf3b9-8cb9-4f75-94cc-dcff23ffce02",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "Amtrak",
+"displayName": "Amtrak",
+"path": "TRANSPORTATION AND INFRASTRUCTURE ORGANIZATIONS/Amtrak",
+"vocabulary": "Organizations",
+"attributes": {
+"prefLabel": [
+"Amtrak"
+],
+"homepage": [
+"http://www.amtrak.com/"
+],
+"created": [
+"2012-06-06T23:32:28.038-04:00"
+],
+"doNotextract": [
+"false"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"lschill-script"
+],
+"modified": [
+"5/13/2016 10:15:48 AM"
+],
+"hasChildren": [
+"true"
+]
+}
+},
+{
+"id": "9acecc60-95ad-4713-9dd7-2a8a8dcc3193",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "Federal Railroad Administration",
+"displayName": "Federal Railroad Administration",
+"path": "GOVERNMENT ORGANIZATIONS/National governments/U.S. government/U.S. presidential cabinet departments/U.S. Department of Transportation/Federal Railroad Administration",
+"vocabulary": "Organizations",
+"attributes": {
+"createdBy": [
+"mcoyne"
+],
+"modifiedBy": [
+"lofoster"
+],
+"definition": [
+"The Federal Railroad Administration is an arm of the federal Department of Transportation that was created in 1966 to oversee railroads. Its duties includes safety, research, development, enforcing and recommending legislation, and administering grants and loans."
+],
+"statusTerm": [
+"Validated"
+],
+"doNotextract": [
+"false"
+],
+"requestor": [
+"mcoyne"
+],
+"created": [
+"2016-02-17T19:46:29.164Z"
+],
+"modified": [
+"2016-09-21T16:16:19.847Z"
+],
+"comment": [
+"Candidate, 20160217, KBD",
+"Assigned, 20160913, JKickert",
+"Reviewed, validated LF 20160921"
+],
+"prefLabel": [
+"Federal Railroad Administration"
+],
+"assignedTo": [
+"LoFoster"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"local": [
+"false"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+{
+"id": "7638f150-ed41-4ca6-9e81-810ebbb40252",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "Corporate R&D",
+"displayName": "Corporate R&D",
+"path": "BUSINESS, ECONOMY, AND FINANCE/Corporate operations/Corporate R&D",
+"vocabulary": "Subjects",
+"attributes": {
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"created": [
+"2015-09-30T20:00:15.778Z"
+],
+"doNotextract": [
+"false"
+],
+"requestor": [
+"E. Eile",
+"USAT"
+],
+"altLabel": [
+"R&D",
+"research",
+"development"
+],
+"definition": [
+"Activities that a business chooses to conduct with the intention of making a discovery that can either lead to the development of new products or procedures, or to improvement of existing products or procedures."
+],
+"prefLabel": [
+"Corporate R&D"
+],
+"modified": [
+"2017-06-21T20:33:25.575Z"
+],
+"extractionMethod": [
+"Same Form, Ignore Case"
+],
+"restrictor": [
+"corporate",
+"corporation"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+{
+"id": "49c9ab98-58d8-4083-9776-1f1529312163",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "Brightline",
+"displayName": "Brightline",
+"path": "TRANSPORTATION AND INFRASTRUCTURE ORGANIZATIONS/Brightline",
+"vocabulary": "Organizations",
+"attributes": {
+"created": [
+"2016-09-13T17:41:36.000Z"
+],
+"createdBy": [
+"lbroadt@gannett.com"
+],
+"modified": [
+"2017-04-19T15:06:39.694Z"
+],
+"modifiedBy": [
+"hwing"
+],
+"prefLabel": [
+"Brightline"
+],
+"definition": [
+"Brightline is a higher-speed rail system under construction in Florida. It is being developed by All Aboard Florida, a wholly owned subsidiary of Florida East Coast Industries, similar to Amtrak's \"Acela.\""
+],
+"statusTerm": [
+"Validated"
+],
+"doNotextract": [
+"false"
+],
+"requestor": [
+"lbroadt@gannett.com"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"comment": [
+"Candidate, 20161004, KBD",
+"Validated HW 20170419"
+],
+"restrictor": [
+"rail system",
+"Florida",
+"All Aboard Florida"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+{
+"id": "0a80d5ab-cf6d-442f-a2b0-506914813a01",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "RAIL INDUSTRY",
+"displayName": "Rail industry",
+"path": "RAIL INDUSTRY",
+"vocabulary": "Companies",
+"attributes": {
+"altLabel": [
+"Rail shipping",
+"Rail freight",
+"Railroad transportation",
+"Rail transportation"
+],
+"definition": [
+"Transporting passengers and cargo along railroads."
+],
+"prefLabel": [
+"RAIL INDUSTRY"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"doNotextract": [
+"false"
+],
+"created": [
+"2012-06-07T03:30:13.422Z"
+],
+"modified": [
+"2017-04-14T16:39:40.168Z"
+],
+"comment": [
+"Updated, 20161026, KBD"
+],
+"extractionMethod": [
+"Same Form, Ignore Case"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+{
+"id": "79676c63-eeab-412c-9194-9a7f30909c2d",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "Government regulations",
+"displayName": "Government Regulations",
+"path": "GOVERNMENT AND POLITICS/Government regulations",
+"vocabulary": "Subjects",
+"attributes": {
+"altLabel": [
+"Industry regulations",
+"Motor vehicle regulations",
+"Driving regulations",
+"Alcohol regulations",
+"Smoking regulations",
+"Environmental regulations",
+"Gambling regulations",
+"Building codes",
+"Weapons regulations",
+"government regulation",
+"regulations or taxes",
+"Taxes & regulations",
+"deregulation",
+"regulations and taxes"
+],
+"definition": [
+"Measures taken by a government to influence or control various aspects of society or businesses and the economy. Includes regulations and laws for specific topic areas, laws being the primary legislation and regulations being secondary legislation which provide details on the enforcement of laws. Specific topic areas covered include: alcohol, driving, the environment, gambling, industry, smoking, travel and weapons. For further information on laws, see \"Laws\". For articles on a goverment's overall plan and course of action for achieving its goals, see \"Government policy\"."
+],
+"prefLabel": [
+"Government regulations"
+],
+"created": [
+"2012-06-07T03:29:17.341Z"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"modified": [
+"2017-04-22T21:54:29.031Z"
+],
+"extractionMethod": [
+"Same Form, Ignore Case"
+],
+"doNotextract": [
+"false"
+],
+"hasChildren": [
+"true"
+]
+}
+},
+{
+"id": "c0f5645e-870c-4b03-8eff-9dca3c90a0e5",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "ENVIRONMENT",
+"displayName": "Environment",
+"path": "ENVIRONMENT",
+"vocabulary": "Subjects",
+"attributes": {
+"definition": [
+"The conditions and properties of the natural world, especially with regard to the health of ecosystems and the organisms that inhabit them. Includes content about both preservation and degradation of the environment, as well as human efforts to understand, measure, and regulate the effects of human activity on the environment."
+],
+"prefLabel": [
+"ENVIRONMENT"
+],
+"doNotextract": [
+"false"
+],
+"imageAssetId": [
+"32211423"
+],
+"isSmartTopic": [
+"true"
+],
+"isDefault": [
+"true"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"hwing"
+],
+"created": [
+"2012-06-07T03:30:44.061Z"
+],
+"modified": [
+"2017-03-29T15:49:19.873Z"
+],
+"extractionMethod": [
+"Same Form, Ignore Case"
+],
+"altLabel": [
+"ecology",
+"ecosystems",
+"environmental",
+"environmentalists",
+"ecologists",
+"illegal dumping",
+"landfills",
+"a landfill",
+"excavating",
+"climate change",
+"natural resources",
+"Energy, Minerals and Natural Resources Department",
+"Conservation Voters"
+],
+"forbiddenSpan": [
+"police-state environment",
+"welcoming environment",
+"to create an environment for",
+"alcohol-free environment",
+"environmental group",
+"work environment",
+"learning environment",
+"quiet environment",
+"Environmental Protection Agency",
+"Department of Environmental Protection",
+"regulatory environment",
+"uplifting environment",
+"running environment",
+"his island environment",
+"her island environment",
+"uncertain environment"
+],
+"comment": [
+"http://dbpedia.org/page/Natural_environment"
+],
+"stopTerm": [
+"smart home",
+"injury players",
+"injured players",
+"football",
+"soccer",
+"NFL",
+"MLS",
+"basketball",
+"NBA",
+"fraternity"
+],
+"hasChildren": [
+"true"
+]
+}
+},
+{
+"id": "4b71cefc-f9ae-4eb0-9e99-dba24a2994b9",
+"isAutoTag": true,
+"isDisabled": false,
+"name": "Investing and investments",
+"displayName": "Investing and Investments",
+"path": "BUSINESS, ECONOMY, AND FINANCE/Financial markets/Investing and investments",
+"vocabulary": "Subjects",
+"attributes": {
+"doNotextract": [
+"false"
+],
+"requestor": [
+"M. Fowler"
+],
+"definition": [
+"Expending money with the expectation of achieving a profit or material result by putting it into financial schemes, shares, or property, or by using it to develop a commercial venture."
+],
+"prefLabel": [
+"Investing and investments"
+],
+"created": [
+"2015-03-10T21:42:51.250Z"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"modified": [
+"2017-04-21T20:32:27.888Z"
+],
+"extractionMethod": [
+"Same Form, Ignore Case"
+],
+"altLabel": [
+"investment",
+"investments",
+"investing",
+"investors",
+"invested"
+],
+"restrictor": [
+"stocks",
+"bonds",
+"annuities",
+"stock prices",
+"earnings",
+"revenue",
+"share prices",
+"the market",
+"index funds",
+"Berkshire Hathaway",
+"Berkshire Hathaway's",
+"hedge-fund",
+"hedge-funds",
+"hedge funds",
+"hedge fund",
+"mutual fund",
+"mutual funds",
+"index fund",
+"dividends",
+"fund-of-fund",
+"currencies",
+"commodities",
+"trade options",
+"pension funds",
+"pension fund",
+"financial product",
+"financial service",
+"S&P 500",
+"Warren Buffett",
+"Warren Buffett's"
+],
+"hasChildren": [
+"true"
+]
+}
+},
+{
+"id": "1c87c883-c0c4-499f-b38f-d9846ff44fea",
+"isAutoTag": true,
+"isDisabled": true,
+"name": "Daniel Webster",
+"displayName": "Daniel Webster",
+"path": "POLITICIANS/Daniel Webster",
+"vocabulary": "Persons",
+"attributes": {
+"definition": [
+"Member of the US House of Representatives from Florida's 8th district. Member of the Florida Senate from the 9th district."
+],
+"created": [
+"2012-06-07"
+],
+"modified": [
+"5/13/2016 9:34:36 AM"
+],
+"prefLabel": [
+"Daniel Webster"
+],
+"birthdate": [
+"1949-04-27"
+],
+"doNotextract": [
+"false"
+],
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"lschill-script"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+{
+"id": "1e239aed-6791-4a84-a275-710d835634fa",
+"isAutoTag": false,
+"isDisabled": false,
+"name": "All Aboard Florida",
+"displayName": "All Aboard Florida",
+"path": "All Aboard Florida",
+"vocabulary": "Companies",
+"attributes": {
+"created": [
+"9/13/2016 1:39:37 PM"
+],
+"createdBy": [
+"lbroadt@gannett.com"
+],
+"modified": [
+"2016-09-13T21:15:43.446Z"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"prefLabel": [
+"All Aboard Florida"
+],
+"definition": [
+"Proposed passenger railroad which would send 16 daily round trips between Miami and Orlando, with additional stops in Fort Lauderdale and West Palm Beach."
+],
+"statusTerm": [
+"Candidate"
+],
+"doNotextract": [
+"true"
+],
+"requestor": [
+"lbroadt@gannett.com"
+],
+"comment": [
+"Candidates, 20160913, KBD"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+{
+"id": "01a5a296-95b1-413e-8993-f7c59a41a24e",
+"isAutoTag": false,
+"isDisabled": false,
+"name": "Passenger rail",
+"displayName": "Passenger Rail",
+"path": "TRAFFIC AND TRANSIT/Mass transit/Passenger rail",
+"vocabulary": "Subjects",
+"attributes": {
+"requestor": [
+"mbarrett@gannett.com",
+"Asheville Citizen-Times"
+],
+"created": [
+"2015-11-24T20:37:58.870Z"
+],
+"doNotextract": [
+"false"
+],
+"prefLabel": [
+"Passenger rail"
+],
+"statusTerm": [
+"Validated"
+],
+"modified": [
+"2017-06-28T15:22:01.262Z"
+],
+"definition": [
+"Passenger rail is a common term for trains systems that transport people. This includes metros; subways; elevated and overhead trains; U-Bahns and S-Bahns and underground and tube trains."
+],
+"modifiedBy": [
+"kdeweese"
+],
+"extractionMethod": [
+"Same Form, Ignore Case"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+{
+"id": "7dfdfd68-5b2d-4a65-9ae1-011a7cd8d071",
+"isAutoTag": false,
+"isDisabled": false,
+"name": "Rail construction industry",
+"displayName": "Rail Construction Industry",
+"path": "CONSTRUCTION INDUSTRY/Rail construction industry",
+"vocabulary": "Subjects",
+"attributes": {
+"statusTerm": [
+"Validated"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"created": [
+"2015-11-12T20:12:24.858Z"
+],
+"doNotextract": [
+"false"
+],
+"prefLabel": [
+"Rail construction industry"
+],
+"definition": [
+"Rail construction is the process of improving or building railroads."
+],
+"modified": [
+"2017-04-14T20:17:10.095Z"
+],
+"extractionMethod": [
+"Same Form, Ignore Case"
+],
+"hasChildren": [
+"false"
+]
+}
+}
+],
+"primaryContentTag": {
+"id": "1e239aed-6791-4a84-a275-710d835634fa",
+"name": "All Aboard Florida",
+"displayName": "All Aboard Florida",
+"path": "All Aboard Florida",
+"vocabulary": "Companies",
+"attributes": {
+"created": [
+"9/13/2016 1:39:37 PM"
+],
+"createdBy": [
+"lbroadt@gannett.com"
+],
+"modified": [
+"2016-09-13T21:15:43.446Z"
+],
+"modifiedBy": [
+"kdeweese"
+],
+"prefLabel": [
+"All Aboard Florida"
+],
+"definition": [
+"Proposed passenger railroad which would send 16 daily round trips between Miami and Orlando, with additional stops in Fort Lauderdale and West Palm Beach."
+],
+"statusTerm": [
+"Candidate"
+],
+"doNotextract": [
+"true"
+],
+"requestor": [
+"lbroadt@gannett.com"
+],
+"comment": [
+"Candidates, 20160913, KBD"
+],
+"extractionMethod": [
+"Same Form, Same Case"
+],
+"hasChildren": [
+"false"
+]
+}
+},
+"classification": "news/local/shaping-our-future/all-aboard-florida",
+"friendlyId": 419079001,
+"contributors": [
+{
+"id": "10052686",
+"displayName": "Lisa Broadt",
+"email": "lisa.broadt@tcpalm.com",
+"bylinesource": "lisa.broadt@tcpalm.com"
+}
+],
+"contentSourceCode": "PTCN",
+"history": [
+{
+"event": "created",
+"userId": "lbroadt",
+"systemId": "Presto Next",
+"date": "2017-06-22T13:20:14.658Z",
+"planningStatus": "planned",
+"status": "draft"
+},
+{
+"event": "story.planningstatus.set",
+"userId": "lbroadt",
+"systemId": "Presto Next",
+"date": "2017-06-22T13:20:26.733Z",
+"versionHash": "0a835f001887359201556e7fb7dc9dd1",
+"planningStatus": "creating",
+"status": "draft"
+},
+{
+"event": "story.planningstatus.set",
+"userId": "lbroadt",
+"systemId": "Presto Next",
+"date": "2017-06-22T13:20:26.950Z",
+"versionHash": "c9dc67d352da1824b8d5be11a545f5fd",
+"planningStatus": "creating",
+"status": "draft"
+},
+{
+"event": "story.send.to.newsgate.success.notified",
+"userId": "lbroadt",
+"systemId": "Presto Next",
+"date": "2017-06-22T13:24:18.782Z",
+"versionHash": "3e4f6ee2fb40cccf4a982f487b437bb8",
+"planningStatus": "creating",
+"status": "draft"
+},
+{
+"event": "story.send.to.newsgate.success.notified",
+"userId": "alrosenberg",
+"systemId": "Presto Next",
+"date": "2017-06-22T22:08:24.317Z",
+"versionHash": "dd601f3392abd32261cc0fd6da0ad12a",
+"planningStatus": "creating",
+"status": "draft"
+},
+{
+"event": "story.publish.requested",
+"userId": "alrosenberg",
+"systemId": "Presto Next",
+"date": "2017-06-22T22:08:35.157Z",
+"versionHash": "9f489ba3f1b06ff62e9c66a08c0a6b62",
+"planningStatus": "creating",
+"status": "draft"
+},
+{
+"event": "story.publish.success.notified",
+"userId": "alrosenberg",
+"systemId": "geronimo-publish-handler",
+"date": "2017-06-22T22:08:35.157Z",
+"versionHash": "9f489ba3f1b06ff62e9c66a08c0a6b62",
+"planningStatus": "published",
+"status": "published"
+},
+{
+"event": "story.planningstatus.set",
+"userId": "dllycan",
+"systemId": "authoring",
+"date": "2017-06-22T22:17:27.794Z",
+"versionHash": "e1143ad4ec2540dae2574f344848baae",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.send.to.newsgate.success.notified",
+"userId": "dllycan",
+"systemId": "Presto Next",
+"date": "2017-06-22T22:23:54.490Z",
+"versionHash": "68664494d4c7de5fc3daf278873e5a35",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.requested",
+"userId": "dllycan",
+"systemId": "Presto Next",
+"date": "2017-06-22T22:24:05.481Z",
+"versionHash": "cb7cfbb925dbfccc1f72516736d12acb",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.success.notified",
+"userId": "dllycan",
+"systemId": "geronimo-publish-handler",
+"date": "2017-06-22T22:24:05.481Z",
+"versionHash": "cb7cfbb925dbfccc1f72516736d12acb",
+"planningStatus": "published",
+"status": "published"
+},
+{
+"event": "story.planningstatus.set",
+"userId": "dllycan",
+"systemId": "authoring",
+"date": "2017-06-22T22:24:18.688Z",
+"versionHash": "a8ce5e40bb9661b9e40a63a6af4c9c71",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.requested",
+"userId": "dllycan",
+"systemId": "Presto Next",
+"date": "2017-06-22T22:24:18.693Z",
+"versionHash": "8863620c64976dbc5a6d4127a6b31cc4",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.success.notified",
+"userId": "dllycan",
+"systemId": "geronimo-publish-handler",
+"date": "2017-06-22T22:24:18.693Z",
+"versionHash": "8863620c64976dbc5a6d4127a6b31cc4",
+"planningStatus": "published",
+"status": "published"
+},
+{
+"event": "story.planningstatus.set",
+"userId": "dllycan",
+"systemId": "authoring",
+"date": "2017-06-22T22:35:02.841Z",
+"versionHash": "a9d538c748c8f3cfc290858e97b96341",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.send.to.newsgate.success.notified",
+"userId": "dllycan",
+"systemId": "Presto Next",
+"date": "2017-06-22T22:35:06.272Z",
+"versionHash": "1bb8991b48e50bf3eaa8e23826e356ad",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.requested",
+"userId": "dllycan",
+"systemId": "Presto Next",
+"date": "2017-06-22T22:35:13.478Z",
+"versionHash": "2b7a173e5370cfda9f392526fb50312a",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.success.notified",
+"userId": "dllycan",
+"systemId": "geronimo-publish-handler",
+"date": "2017-06-22T22:35:13.478Z",
+"versionHash": "2b7a173e5370cfda9f392526fb50312a",
+"planningStatus": "published",
+"status": "published"
+},
+{
+"event": "story.planningstatus.set",
+"userId": "dllycan",
+"systemId": "authoring",
+"date": "2017-06-22T22:42:05.036Z",
+"versionHash": "c2ac64ac6c4162bb6b730b4d0134f12f",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.requested",
+"userId": "dllycan",
+"systemId": "Presto Next",
+"date": "2017-06-22T22:42:05.042Z",
+"versionHash": "cd595d011726d5a3accf36cdf56856bc",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.success.notified",
+"userId": "dllycan",
+"systemId": "geronimo-publish-handler",
+"date": "2017-06-22T22:42:05.042Z",
+"versionHash": "cd595d011726d5a3accf36cdf56856bc",
+"planningStatus": "published",
+"status": "published"
+},
+{
+"event": "story.planningstatus.set",
+"userId": "cmccloud",
+"systemId": "authoring",
+"date": "2017-06-23T14:08:23.550Z",
+"versionHash": "e1b7c831cb04e260e89fc0d1397954e9",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.requested",
+"userId": "cmccloud",
+"systemId": "Presto Next",
+"date": "2017-06-23T14:10:03.914Z",
+"versionHash": "0975beec1ea16221592787da251c0b5e",
+"planningStatus": "revising",
+"status": "revising"
+},
+{
+"event": "story.publish.success.notified",
+"userId": "cmccloud",
+"systemId": "geronimo-publish-handler",
+"date": "2017-06-23T14:10:03.914Z",
+"versionHash": "0975beec1ea16221592787da251c0b5e",
+"planningStatus": "published",
+"status": "published"
+}
+],
+"isCurrentlyPublished": true,
+"scheduledPublishDate": null,
+"scheduledPublishHash": null,
+"eventState": {
+"requestedHash": "929e51c20d48364ec3b528bda07c3e44",
+"headHash": "929e51c20d48364ec3b528bda07c3e44"
+},
+"updatedDate": "2017-06-25T22:11:11.118Z",
+"updatedByUser": "hgrossma",
+"updatedBySystem": "Presto Next",
+"currentVersionHash": "929e51c20d48364ec3b528bda07c3e44",
+"currentVersionDate": 1498428671118,
+"userUpdatedDate": "2017-06-23T14:10:03.944Z",
+"id": "5ee6d394-156c-4cc8-9e6f-694fa712cd3d",
+"aggregateName": "story",
+"createdByUser": "lbroadt",
+"createdBySystem": "Presto Next",
+"createdDate": "2017-06-22T13:20:14.658Z"
+}
+}

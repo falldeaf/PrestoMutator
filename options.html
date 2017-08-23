@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head><title>Click Edit Extension Options</title></head>
+<body>
+
+<h2>TCPalm Clickability Mutator Options <img style="vertical-align:text-bottom;" src="icon48.png"\></h2>
+
+All open tabs with Clickability (Front or back) will need to be reloaded after saving changes.
+
+<form>
+<ul class="form-style-1">
+
+	<li>
+        <label>Insert Floating control <span class="explain">(This will add a right side floating button to edit stories/video/galleries)</span></label>
+        <input type="checkbox" id="fcontrol">
+    </li>
+
+	<li>
+		<label>Chartbeat numbers  <span class="explain">(*Not yet implemented | Add chartbeat numbers)</span></label>
+        <input type="checkbox" id="cbeat">
+    </li>
+
+    <li>
+    	<div id="status"></div>
+    	<button id="save">Save</button>
+    </li>
+
+</ul>
+</form>
+
+<script src="jquery-2.2.2.min.js"></script>
+<script src="options.js"></script>
+<link href="option.css" rel="stylesheet" type="text/css">
+</body>
+</html>
