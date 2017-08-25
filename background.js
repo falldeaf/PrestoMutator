@@ -1,5 +1,5 @@
 //////////////////////////////
-// CONTEXT MENU ITEMS
+// CONTEXT MENU ITEMS - Presto ID Selection
 //////////////////////////////
 
 chrome.contextMenus.create({
@@ -23,11 +23,22 @@ chrome.contextMenus.create({
     onclick: openFront,
 });
 
+//////////////////////////////
+// CONTEXT MENU ITEMS - Presto Images
+//////////////////////////////
+
+chrome.contextMenus.create({
+
+    title: "Get full image",
+    contexts:["image"],
+    onclick: getFullImage,
+});
+
 ///////////////////////////
 // FUNCTION: Get the Geronimo JSON data and call the success function with JSON object as argument
 // ARGS- (id : Presto ID),
 //       (success: Callback with JSON data)
-function getJSON(id, success) {
+function getGeronimo(id, success) {
   var json = "";
 
   var xhr = new XMLHttpRequest();
@@ -40,6 +51,26 @@ function getJSON(id, success) {
   };
 
   xhr.open('GET', 'http://geronimo-api.production.gannettdigital.com/api/v1/' + id);
+  xhr.send();
+}
+
+///////////////////////////
+// FUNCTION: Get the Geronimo JSON data and call the success function with JSON object as argument
+// ARGS- (id : Presto ID),
+//       (success: Callback with JSON data)
+function getMoc(id, success) {
+  var json = "";
+
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+          json = xhr.responseText;                         // Response
+          json = JSON.parse(json);                             // Parse JSON
+    		  success(json);
+      }
+  };
+
+  xhr.open('GET', 'http://moc-aimeasset.gmti.gbahn.net/aime/AssetsService.svc/Asset/' + id);
   xhr.send();
 }
 
@@ -130,7 +161,7 @@ function redirectTab(tab, redirect) {
 
 function openFront(info, tab) {
   if(checkID(info.selectionText)) {
-    getJSON(info.selectionText, function(json) {
+    getGeronimo(info.selectionText, function(json) {
       var newURL = json.readModel.pageUrl;
       chrome.tabs.create({ url: newURL });
     });
@@ -147,10 +178,10 @@ function openAdobe(info, tab) {
 function openPresto(info, tab) {
   if(checkID(info.selectionText)) { //Check if Presto ID is valid
     loggedIN(function(li) {  //Check if we're logged in
-      getJSON(info.selectionText, function(json) { // Get Geronimo API JSON
+      getGeronimo(info.selectionText, function(json) { // Get Geronimo API JSON
 
             var newURL = "https://presto.gannettdigital.com/#!/stories/edit/" + json.readModel.id;
-            var sc = json.readModel.associatedAssets[0].siteCode;
+            var sc = json.readModel.assetGroup.site.siteCode;
             if(li) { //We are (l)ogged (I)n
               redirectUrl(-1, "https://presto.gannettdigital.com/#!/" + sc + "/search", newURL); // Switch to correct Site Code
             } else { //We are NOT (l)ogged (I)n
@@ -168,10 +199,48 @@ function openPresto(info, tab) {
               }); //end of create tab
             }//end logged in? check
 
-      });//end getjson
+      });//end getGeronimo
     });//end loggedIN
 
   }//end of checkID
+}
+
+function getFullImage(info, tab) {
+
+  if(getURLDomain(info.srcUrl) == "www.gannett-cdn.com") { //make sure this is a gannett image
+    var imgpath = getLastPathfromURL(info.srcUrl) //get the path of the image
+    var storyid = getLastPathfromURL(info.pageUrl); //get the Presto story ID of the page the image is on
+
+    getGeronimo(storyid, function(json) { //call the getGeronimo API with story ID
+      for(var k in json.readModel.associatedAssets) { //loop through the associated assets looking for our image
+        if(json.readModel.associatedAssets[k].thumbnail.indexOf(imgpath) > 0 ) {//if the thumbnail constains the same path...
+          getMoc(json.readModel.associatedAssets[k].id, function(json) {//call the media API for a full URL
+            for(var i in json.attributes) {//loop through attributes
+              if(json.attributes[i].name == "basename") { //for a name of 'basename'
+                chrome.tabs.create({ url: "https://www.gannett-cdn.com" + json.attributes[i].value }); //open a new tab with full image
+              }
+            };//end of attributes loop
+          });//get Media API JSON
+        }//end of check if URLs are the same
+      }//end of associatedAssets loop
+    });//end getGeronimo api
+  } else {
+    alert("This action only works on Gannett/Presto images");
+  }
+
+}
+
+//////////////////Helpers
+function getLastPathfromURL(url) {
+  var parser = document.createElement('a');
+  parser.href = url;
+  return parser.pathname.replace(/\/+$/, "").split("/").pop();
+}
+
+function getURLDomain(url) {
+  var parser = document.createElement('a');
+  parser.href = url;
+  return parser.hostname;
 }
 
 /*
